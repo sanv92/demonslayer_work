@@ -1,14 +1,15 @@
 # Demonslayer work
-Title: Demon Slayer game portal.
-Technologies: Photoshop, HTML5, CSS3, jQuery, JavaScript.
-Description: PSD to HTML Conversion.
-Date: 2013-08-09
+<br /><br />
+Title: Demon Slayer game portal.<br />
+Technologies: Photoshop, HTML5, CSS3, jQuery, JavaScript.<br />
+Description: PSD to HTML Conversion.<br />
+Date: 2013-08-09<br />
 
-pages:
-https://sanderv1992.github.io/demonslayer/
-https://sanderv1992.github.io/demonslayer/about-game.html
-https://sanderv1992.github.io/demonslayer/class-about-archer.html
-https://sanderv1992.github.io/demonslayer/about-game.html
-https://sanderv1992.github.io/demonslayer/rate.html
-https://sanderv1992.github.io/demonslayer/snews.html
+pages:<br />
+https://sanderv1992.github.io/demonslayer/<br />
+https://sanderv1992.github.io/demonslayer/about-game.html<br />
+https://sanderv1992.github.io/demonslayer/class-about-archer.html<br />
+https://sanderv1992.github.io/demonslayer/about-game.html<br />
+https://sanderv1992.github.io/demonslayer/rate.html<br />
+https://sanderv1992.github.io/demonslayer/snews.html<br />
 
